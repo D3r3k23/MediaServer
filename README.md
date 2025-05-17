@@ -1,0 +1,2 @@
+# MediaServer
+MediaServer homelab configuration
