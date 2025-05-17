@@ -1,0 +1,5 @@
+include:
+  - audiobookshelf/docker-compose.yml
+  - plex/docker-compose.yml
+  - jellyfin/docker-compose.yml
+  - radarr/docker-compose.yml
